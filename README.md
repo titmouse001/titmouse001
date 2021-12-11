@@ -1,7 +1,6 @@
 👋 Hi, I’m @titmouse001
 
 - 👀 I’m interested in programming, retro computers & electronics 
-- 🌱 I’m currently learning Docker!
 - 💞️ I’m not looking to collaborate on anything just yet
 - 📫 You can try and reach me here: titmouse001@gmail.com
 
