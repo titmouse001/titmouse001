@@ -4,7 +4,7 @@
 - 💞️ I’m not looking to collaborate on anything just yet
 - 📫 You can try and reach me here: titmouse001@gmail.com
 
-### History - Past Projects made in my spare time: (most are very old, looking to upload all code)
+### History - Past Projects made in my spare time: (most are very old)
 - Android
   - High Octane (Free 2D Racing game for Android, released in 2014)
     - https://www.youtube.com/watch?v=kYh7IOFgiY8
